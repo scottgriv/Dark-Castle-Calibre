@@ -11,4 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Official release of **Dark Castle Theme for Calibre**.
 
-[1.0.0]: https://github.com/scottgriv/Dark-Castle-Calibre/releases/tag/v1.0.0
+[1.0.0]: https://github.com/scottgriv/Dark-Castle-Calibre/releases/tag/1.0.0
