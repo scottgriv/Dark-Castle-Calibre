@@ -4,8 +4,8 @@
     </a>
 </div>
 <h1 align="center">Dark Castle for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="https://calibre-ebook.com/" target="_blank">
+    Calibre
     </a>
 </h1>
 <p align="center">
